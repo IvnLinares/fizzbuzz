@@ -2,10 +2,10 @@
   "name": "fizzbuzz",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "fizzbuzz.js",
   "scripts": {
     "test": "jest",
-    "test:watch" : "jest --watchAll"
+    "test:watch": "jest --watchAll"
   },
   "keywords": [],
   "author": "",
